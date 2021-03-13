@@ -1,0 +1,1 @@
+a small java-swing application linked with mysql by the jpa framwork, it contains an add and update form as well as a table to display the data entered.
